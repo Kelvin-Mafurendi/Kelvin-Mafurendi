@@ -38,7 +38,7 @@ Created a personal portfolio website to showcase my projects, skills, and photog
   - [Introduction to Machine Learning](link-to-certificate)
 
 ## Contact
-- **Email**: your.email@example.com
+- **Email**: mafurendiofficial@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](your-linkedin-profile)
 - **GitHub**: [Your GitHub Profile](your-github-profile)
 
