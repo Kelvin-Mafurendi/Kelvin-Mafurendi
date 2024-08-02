@@ -5,9 +5,13 @@
 Hey there, digital explorer! I'm Kelvin, an Electrical Engineering graduate venturing into the realms of Machine Learning, AI, and Data Science. My mission? To engineer a future where technology sparks positive change in our society.
 
 🔭 Currently exploring: The vast universe of data science and machine learning
+
 🌱 Always learning: New ways to turn data into actionable insights
+
 📸 Capturing life: One frame at a time through photography
+
 🎥 Documenting the journey: On my [YouTube channel](your-youtube-link)
+
 🚀 Future vision: Building an entrepreneurship empire that leverages tech for good
 
 ## 🛠 My Tech Toolbox
