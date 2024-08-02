@@ -1,40 +1,46 @@
 # Hi there, I'm Kelvin 👋
 
 ## About Me
-I'm a final year Electrical Engineering student at Nelson Mandela University with a strong interest in Machine Learning and Artificial Intelligence. I aspire to leverage data science and technology to drive innovation and societal improvement.
+I'm an Electrical Engineering graduate with a passion for Machine Learning, Artificial Intelligence, and Data Science. I aspire to become a successful entrepreneur, using technology and data to drive societal improvement.
 
-- 🌱 I’m currently working on enhancing my data science and machine learning skills.
-- 🎥 I document my learning journey and share insights on my [YouTube channel](your-youtube-link).
-- 🚀 My goal is to become a successful entrepreneur and create impactful solutions.
+- 🌱 Currently enhancing my skills in data science and machine learning.
+- 📸 I enjoy photography, capturing landscapes and portraits, and recording videos discussing various subjects.
+- 🎥 Documenting my learning journey on my [YouTube channel](your-youtube-link).
+- 🚀 Aspiring to build an entrepreneurship empire that leverages technology for societal benefit.
 
 ## Skills
-- **Programming Languages**: Python, SQL, C++
-- **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow
-- **Machine Learning**: Supervised and Unsupervised Learning, Neural Networks
-- **Tools**: Git, Jupyter, VSCode
+- **Programming Languages**: Python, SQL, C/C++
+- **Data Science**: Pandas, NumPy, Dash
+- **Tools**: Git, Jupyter, VSCode, Mbed Studio, Visual Studio, NODE-RED
 
 ## Projects
 Here are a few highlights of my projects:
 
-### [Project Name 1](link-to-project-repo)
-Description of the project, what it does, technologies used, and any notable achievements.
+### [Data Science Pathway Project](link-to-project-repo)
+A comprehensive project showcasing my journey through the data science pathway. It includes data cleaning, analysis, visualization, and applying machine learning algorithms.
 
-### [Project Name 2](link-to-project-repo)
-Description of the project, what it does, technologies used, and any notable achievements.
+### [Machine Learning Model for XYZ](link-to-project-repo)
+Developed a machine learning model to solve [specific problem]. The project covers data preprocessing, model training, evaluation, and deployment.
 
-### [Project Name 3](link-to-project-repo)
-Description of the project, what it does, technologies used, and any notable achievements.
+### [Personal Portfolio Website](link-to-project-repo)
+Created a personal portfolio website to showcase my projects, skills, and photography. Built using HTML, CSS, and JavaScript.
 
 ## Education
-- **BEng Electrical Engineering** - Nelson Mandela University, South Africa
-  - Expected Graduation: Year
-  - Relevant Coursework: Machine Learning, Data Science, etc.
+- **BEng Electrical Engineering**
+
+## Courses and Certifications
+- **CS50's Introduction to Programming with Python (CS50P)** - [Harvard University](https://cs50.harvard.edu/python/)
+- **CS50's Introduction to Databases with SQL (CS50SQL)** - [Harvard University](https://cs50.harvard.edu/sql/)
+- **Kaggle Certificates**:
+  - [Introduction to Python](link-to-certificate)
+  - [Data Visualization](link-to-certificate)
+  - [Pandas](link-to-certificate)
+  - [Introduction to Machine Learning](link-to-certificate)
 
 ## Contact
 - **Email**: your.email@example.com
 - **LinkedIn**: [Your LinkedIn Profile](your-linkedin-profile)
 - **GitHub**: [Your GitHub Profile](your-github-profile)
 
-## Quote
+## Quotes
 _"The best way to predict the future is to invent it." - Alan Kay_
-
