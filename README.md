@@ -1,4 +1,4 @@
-# Welcome to Kelvin's Cyberspace 👨‍💻🌌
+# Welcome to Kelvin's
 
 ## Navigating the Intersection of Electrons, Algorithms, and Pixels
 
