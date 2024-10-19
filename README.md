@@ -2,7 +2,7 @@
 
 ## Navigating the Intersection of Electrons, Algorithms, and Pixels
 
-Hey there, digital explorer! I'm Kelvin, an Electrical Engineering graduate venturing into the realms of Machine Learning, AI, and Data Science. My mission? To engineer a future where technology sparks positive change in our society.
+Hi there! I'm Kelvin, an Electrical Engineering graduate with a passion for building intelligent machines. My mission? To engineer a future where technology sparks positive change in our society.
 
 🔭 Currently exploring: The vast universe of data science and machine learning
 
@@ -10,44 +10,47 @@ Hey there, digital explorer! I'm Kelvin, an Electrical Engineering graduate vent
 
 📸 Capturing life: One frame at a time through photography
 
-🎥 Documenting the journey: On my [YouTube channel](your-youtube-link)
+🎥 Documenting the journey: On my [YouTube channel](your-youtube-link) and on [Medium]()
 
-🚀 Future vision: Building an entrepreneurship empire that leverages tech for good
+🚀 Future vision: Leverage my craft in entrepreneurship to solve societal problems and to create new opportunities.
 
 ## 🛠 My Tech Toolbox
 
-- **Code Craftsman**: Python, SQL, C/C++, Visual Basic
-- **Data Alchemist**: Pandas, NumPy, Dash
+- **Code Craftsmanship**: Python, SQL, C/C++, Visual Basic, Flutter 
+- **Data Processing**: Pandas,Scikit-learn NumPy, Dash
 - **Digital Workshop**: Git, Jupyter, VSCode, Mbed Studio, Visual Studio, NODE-RED
 
-## 🚀 Project Launch Pad
+## 🚀 Projects
 
-### [Data Science Pathway Project](link-to-project-repo)
-A cosmic journey through the data science galaxy, from data cleaning black holes to machine learning supernovas.
+### [Power-Predict (ongoing)](link-to-project-repo)
+A simple linear regression project to predict household power consumption in London based on multiple variables.
 
-### [Machine Learning Model for XYZ](link-to-project-repo)
-Developing AI to solve [specific problem] - because some problems are too interesting to leave to humans alone!
 
-## 🎓 Knowledge Constellations
+### [CelebrEase (ongoing)](link-to-project-repo)
+A personal interest flutter project. An event planning marketplace for people who intend to plan their events e.g. weddings, conferences, parties etc.
+
+## 🎓 Qualifications and Certifications 
 
 - **Bachelor of Engineering Technology, Electrical Engineering** - Nelson Mandela University
 - **CS50's Introduction to Programming with Python (CS50P)** - [Harvard University](https://cs50.harvard.edu/python/)
 - **CS50's Introduction to Databases with SQL (CS50SQL)** - [Harvard University](https://cs50.harvard.edu/sql/)
 - **Kaggle Certificates**: [Python](link), [Data Visualization](link), [Pandas](link), [Intro to Machine Learning](link)
 
-## 📡 Connect with Me in the Digital Realm
+## 📡 Let's connect 
 
 - 🌐 [Live Resume](https://kelvin-mafurendi.github.io/)
 - 📧 mafurendiofficial@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kelvin-mafurendi-4a3637233/)
 - 🐙 [GitHub](https://github.com/Kelvin-Mafurendi)
 
-## 📸 When I'm Not in Cyberspace
+## 📸 When I'm Not engineering 
 
-You'll find me behind the lens, capturing the world one frame at a time. Photography is my way of finding beauty in the analog while I build in the digital.
+You'll find me behind the lens, engineering moments into memories. Or behind a desk typing or scribbling my thoughts down.
 
-> "The best way to predict the future is to invent it." - Alan Kay
+> "May you find your craft..." - Jensen Huang 
 
 ---
+> "Until you change a man's thinking, you cannot change his life, you cannot change his state and therefore cannot change his estate.
+The extent of your vision is the boundary of your blessing. How far your vision can go is how much you can possess." - Pastor Chris
 
-🔍 Ready for the full adventure? Blast off to my [live resume](your-link-here) and explore the complete Kelvin cosmos!
+---
