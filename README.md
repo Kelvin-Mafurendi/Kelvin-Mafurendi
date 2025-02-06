@@ -65,7 +65,9 @@ Tech Stack: Firebase, Dart/Flutter
 
 ### POV Display Unit
 My Capstone Project for my BEngTEch degree. Designed and constructed a customizable Persistence of Vision (POV) display for dynamic advertisements, integrating embedded systems programming with hardware design.
+
 [View Project Documenation](https://github.com/Kelvin-Mafurendi/Customizable-POV-Display-For-Ads-Capstone-Project)
+
 Tech Stack: C/C++, Visual Basic, Mbed
 
 ## 📊 GitHub Stats
