@@ -1,56 +1,74 @@
-# Welcome to Kelvin's
+# Kelvin Mafurendi 👋
+## Engineering Algorithms, Electrons, and Pixels
 
-## Navigating the Intersection of Electrons, Algorithms, and Pixels
+Hi there! I'm an Electrical Engineering graduate with a passion for building intelligent machines. My mission? To engineer a future where technology sparks positive change in our society.
 
-Hi there! I'm Kelvin, an Electrical Engineering graduate with a passion for building intelligent machines. My mission? To engineer a future where technology sparks positive change in our society.
+## 🎯 Current Focus
+- 🔭 Exploring the vast universe of data science and machine learning
+- 🌱 Learning new ways to turn data into actionable insights
+- 📸 Capturing life one frame at a time through photography
+- 🎥 Documenting the journey on my  [YouTube Channel](https://www.youtube.com/@KelvinMafurendi), [Personal Website](https://kelvin-mafurendi.github.io/) and on my [Medium Profile](https://medium.com/@mafurendiofficial)
+- 🚀 Working towards leveraging my craft in entrepreneurship to solve societal problems
 
-🔭 Currently exploring: The vast universe of data science and machine learning
+## 🎓 Education & Certifications
+### Formal Education
+- **Bachelor of Engineering Technology in Electrical Engineering**
+  - Nelson Mandela University (2020-2024)
+  - Notable coursework: Automation & Control, Electrical Machines, Computer Systems
 
-🌱 Always learning: New ways to turn data into actionable insights
+### Certifications
+- **Harvard University**
+  - CS50's Introduction to Programming with Python (CS50P)
+  - CS50's Introduction to Databases with SQL (CS50SQL)
+- **Kaggle Certificates**
+  - Python
+  - Data Visualization
+  - Pandas
+  - Intro to Machine Learning
 
-📸 Capturing life: One frame at a time through photography
+## 🛠 Technical Skills
+### Programming & Development
+- **Languages**: Python, SQL, C/C++, Visual Basic, Dart (Flutter)
+- **Data Science**: Pandas, Scikit-learn, NumPy, Dash
+- **Development Tools**: Git, Jupyter, VSCode, Mbed Studio, Visual Studio, NODE-RED
 
-🎥 Documenting the journey: On my [YouTube channel](https://www.youtube.com/@KelvinMafurendi) and on [Medium](https://medium.com/@mafurendiofficial)
+### Electrical Engineering
+- Circuit Design & Analysis
+- Embedded Systems Programming
+- Signal Processing
+- Digital Logic Design
+- Power Systems
 
-🚀 Future vision: Leverage my craft in entrepreneurship to solve societal problems and to create new opportunities.
+## 🔭 Featured Projects
+### Power-Predict (Ongoing)
+A linear regression project to predict household power consumption in London based on multiple variables.
+[View Project]()
 
-## 🛠 My Tech Toolbox
+### CelebrEase (Ongoing)
+An event planning marketplace Flutter application designed to streamline the planning process for weddings, conferences, parties, and other events.
+[View Project]()
 
-- **Code Craftsmanship**: Python, SQL, C/C++, Visual Basic, Flutter 
-- **Data Processing**: Pandas,Scikit-learn NumPy, Dash
-- **Digital Workshop**: Git, Jupyter, VSCode, Mbed Studio, Visual Studio, NODE-RED
+### POV Display Unit
+Designed and constructed a customizable Persistence of Vision display for advertisements, integrating embedded systems programming with hardware design.
+[View Project]()
 
-## 🚀 Projects
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-mafurendi&show_icons=true&theme=dark)
 
-### [Power-Predict (ongoing)](link-to-project-repo)
-A simple linear regression project to predict household power consumption in London based on multiple variables.
-
-
-### [CelebrEase (ongoing)](link-to-project-repo)
-A personal interest flutter project. An event planning marketplace for people who intend to plan their events e.g. weddings, conferences, parties etc.
-
-## 🎓 Qualifications and Certifications 
-
-- **Bachelor of Engineering Technology, Electrical Engineering** - Nelson Mandela University
-- **CS50's Introduction to Programming with Python (CS50P)** - [Harvard University](https://cs50.harvard.edu/python/)
-- **CS50's Introduction to Databases with SQL (CS50SQL)** - [Harvard University](https://cs50.harvard.edu/sql/)
-- **Kaggle Certificates**: [Python](link), [Data Visualization](link), [Pandas](link), [Intro to Machine Learning](link)
-
-## 📡 Let's connect 
-
-- 🌐 [Live Resume](https://kelvin-mafurendi.github.io/)
-- 📧 mafurendiofficial@gmail.com
+## 🤝 Let's Connect
+- 🌐 [Personal Website](https://kelvin-mafurendi.github.io/)
+- 📝 [Medium Profile](https://medium.com/@mafurendiofficial)
+- 📧 [Email](mailto:mafurendiofficial@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kelvin-mafurendi-4a3637233/)
-- 🐙 [GitHub](https://github.com/Kelvin-Mafurendi)
 
-## 📸 When I'm Not engineering 
+## 📸 Beyond Engineering
+When I'm not engineering, you'll find me behind the lens, engineering moments into memories, or behind a desk typing or scribbling my thoughts down.
 
-You'll find me behind the lens, engineering moments into memories. Or behind a desk typing or scribbling my thoughts down.
-
+## 💭 Favorite Quotes
 > "May you find your craft..." - Jensen Huang 
 
----
 > "Until you change a man's thinking, you cannot change his life, you cannot change his state and therefore cannot change his estate.
 The extent of your vision is the boundary of your blessing. How far your vision can go is how much you can possess." - Pastor Chris
 
 ---
+⭐️ From [kelvin-mafurendi](https://github.com/kelvin-mafurendi)
