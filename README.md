@@ -42,17 +42,25 @@ Hi there! I'm an Electrical Engineering graduate with a passion for building int
 ## 🔭 Featured Projects
 ### AgRoll
 An Agricultural data and Payroll management platform to help farmers run their operations seamlessly. Submitted as CS50P's final project.
+
+[Project Video Presenation](https://www.youtube.com/watch?v=X9pZSoXK01Q)
+
 [View Project Documentation](https://github.com/Kelvin-Mafurendi/AgRoll)
+
 Tech Stack: Python, Dash
 
 ### Power-Predict (Ongoing)
 A linear regression project to predict household power consumption in London based on multiple variables.
+
 [View Project Documentation](https://github.com/Kelvin-Mafurendi/Power-Predict-Ongoing-)
+
 Tech Stack: Python, SQLite3, Jupyter Notebooks
 
 ### CelebrEase (Ongoing)
 A personal interest project: An event planning marketplace Flutter application designed to streamline the planning process for weddings, conferences, parties, and other events.
+
 [View Project Documentation](https://github.com/Kelvin-Mafurendi/CelebrEase)
+
 Tech Stack: Firebase, Dart/Flutter
 
 ### POV Display Unit
