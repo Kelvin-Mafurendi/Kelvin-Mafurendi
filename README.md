@@ -1,11 +1,11 @@
 # Kelvin Mafurendi 👋
-## Engineering Algorithms, Electrons, and Pixels
+## Engineering Algorithms, Electrons, Data and Pixels
 
 Hi there! I'm an Electrical Engineering graduate with a passion for building intelligent machines. My mission? To engineer a future where technology sparks positive change in our society.
 
 ## 🎯 Current Focus
-- 🔭 Exploring the vast universe of data science and machine learning
-- 🌱 Learning new ways to turn data into actionable insights
+- 🔭 Exploring the intersection between software and hardware for 4IR proficiency.
+- 🌱 Learning advanced engineering skills 
 - 📸 Capturing life one frame at a time through photography
 - 🎥 Documenting the journey on my  [YouTube Channel](https://www.youtube.com/@KelvinMafurendi), [Personal Website](https://kelvin-mafurendi.github.io/) and on my [Medium Profile](https://medium.com/@mafurendiofficial)
 - 🚀 Working towards leveraging my craft in entrepreneurship to solve societal problems
@@ -28,8 +28,8 @@ Hi there! I'm an Electrical Engineering graduate with a passion for building int
 
 ## 🛠 Technical Skills
 ### Programming & Development
-- **Languages**: Python, SQL, C/C++, Visual Basic, Dart (Flutter)
-- **Data Science**: Pandas, Scikit-learn, NumPy, Dash
+- **Languages**: Python, SQL (SQLite), C/C++, Visual Basic, Dart (Flutter)
+- **Data Science**: Pandas, Scikit-learn, NumPy, Dash, Seaborn
 - **Development Tools**: Git, Jupyter, VSCode, Mbed Studio, Visual Studio, NODE-RED
 
 ### Electrical Engineering
@@ -42,18 +42,19 @@ Hi there! I'm an Electrical Engineering graduate with a passion for building int
 ## 🔭 Featured Projects
 ### Power-Predict (Ongoing)
 A linear regression project to predict household power consumption in London based on multiple variables.
-[View Project]()
+[View Project Documentation](https://github.com/Kelvin-Mafurendi/Power-Predict-Ongoing-)
 
 ### CelebrEase (Ongoing)
 An event planning marketplace Flutter application designed to streamline the planning process for weddings, conferences, parties, and other events.
-[View Project]()
+[View Project Documentation](https://github.com/Kelvin-Mafurendi/CelebrEase)
 
 ### POV Display Unit
 Designed and constructed a customizable Persistence of Vision display for advertisements, integrating embedded systems programming with hardware design.
-[View Project]()
+[View Project Documenation](https://github.com/Kelvin-Mafurendi/Customizable-POV-Display-For-Ads-Capstone-Project)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-mafurendi&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-mafurendi&layout=compact&theme=dark)
+
 
 ## 🤝 Let's Connect
 - 🌐 [Personal Website](https://kelvin-mafurendi.github.io/)
