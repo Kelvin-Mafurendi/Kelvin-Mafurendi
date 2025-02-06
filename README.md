@@ -10,7 +10,7 @@ Hi there! I'm Kelvin, an Electrical Engineering graduate with a passion for buil
 
 📸 Capturing life: One frame at a time through photography
 
-🎥 Documenting the journey: On my [YouTube channel](your-youtube-link) and on [Medium]()
+🎥 Documenting the journey: On my [YouTube channel](https://www.youtube.com/watch?v=I2rPkNZTj1o&list=PL1Ce9yID_iXXCKKpj8Qkx2MkUITpbPvu4&pp=gAQB) and on [Medium](https://medium.com/@mafurendiofficial)
 
 🚀 Future vision: Leverage my craft in entrepreneurship to solve societal problems and to create new opportunities.
 
