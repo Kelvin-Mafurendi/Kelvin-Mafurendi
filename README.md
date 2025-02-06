@@ -28,9 +28,9 @@ Hi there! I'm an Electrical Engineering graduate with a passion for building int
 
 ## 🛠 Technical Skills
 ### Programming & Development
-- **Languages**: Python, SQL (SQLite), C/C++, Visual Basic, Dart (Flutter)
+- **Languages**: Python, SQL (SQLite), C/C++, Visual Basic, Dart (Flutter), MATLAB
 - **Data Science**: Pandas, Scikit-learn, NumPy, Dash, Seaborn
-- **Development Tools**: Git, Jupyter, VSCode, Mbed Studio, Visual Studio, NODE-RED
+- **Development Tools**: Git, Jupyter, VSCode, Mbed Studio, Visual Studio, NODE-RED, MATLAB, Multisim, PSIM, EPLAN, SOLIDWORKS
 
 ### Electrical Engineering
 - Circuit Design & Analysis
@@ -40,17 +40,25 @@ Hi there! I'm an Electrical Engineering graduate with a passion for building int
 - Power Systems
 
 ## 🔭 Featured Projects
+### AgRoll
+An Agricultural data and Payroll management platform to help farmers run their operations seamlessly. Submitted as CS50P's final project.
+[View Project Documentation](https://github.com/Kelvin-Mafurendi/AgRoll)
+Tech Stack: Python, Dash
+
 ### Power-Predict (Ongoing)
 A linear regression project to predict household power consumption in London based on multiple variables.
 [View Project Documentation](https://github.com/Kelvin-Mafurendi/Power-Predict-Ongoing-)
+Tech Stack: Python, SQLite3, Jupyter Notebooks
 
 ### CelebrEase (Ongoing)
-An event planning marketplace Flutter application designed to streamline the planning process for weddings, conferences, parties, and other events.
+A personal interest project: An event planning marketplace Flutter application designed to streamline the planning process for weddings, conferences, parties, and other events.
 [View Project Documentation](https://github.com/Kelvin-Mafurendi/CelebrEase)
+Tech Stack: Firebase, Dart/Flutter
 
 ### POV Display Unit
-Designed and constructed a customizable Persistence of Vision display for advertisements, integrating embedded systems programming with hardware design.
+My Capstone Project for my BEngTEch degree. Designed and constructed a customizable Persistence of Vision (POV) display for dynamic advertisements, integrating embedded systems programming with hardware design.
 [View Project Documenation](https://github.com/Kelvin-Mafurendi/Customizable-POV-Display-For-Ads-Capstone-Project)
+Tech Stack: C/C++, Visual Basic, Mbed
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-mafurendi&layout=compact&theme=dark)
