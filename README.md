@@ -4,8 +4,8 @@
 Hi there! I'm an Electrical Engineering graduate with a passion for building intelligent machines. My mission? To engineer a future where technology sparks positive change in our society.
 
 ## 🎯 Current Focus
-- 🔭 Exploring the intersection between software and hardware for 4IR proficiency.
-- 🌱 Learning advanced engineering skills 
+- 🌱 Learning advanced engineering skills
+- 🔭 Exploring the intersection between software and hardware for 4IR proficiency in my spare time.
 - 📸 Capturing life one frame at a time through photography
 - 🎥 Documenting the journey on my  [YouTube Channel](https://www.youtube.com/@KelvinMafurendi), [Personal Website](https://kelvin-mafurendi.github.io/) and on my [Medium Profile](https://medium.com/@mafurendiofficial)
 - 🚀 Working towards leveraging my craft in entrepreneurship to solve societal problems
